@@ -1,0 +1,21 @@
+h1 {
+	color: blue;
+}
+
+body {
+	font-family: arial, sans-serif;
+	margin: 0 auto;
+	text-align: center;
+	background-color: #F0EBDF;
+	width: 80%; /*important to make it cross platform*/
+}
+
+img {
+	width: 35%
+}
+
+h2 {
+	border: 1px solid black;
+	margin: 50px;
+	padding:30px;
+}

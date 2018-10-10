@@ -1,8 +1,11 @@
-h1 {
-	color: blue;
+.h1title {
+
+	color: black;
+	font-family: Courier New Bold Italic;
 }
 
 body {
+
 	font-family: arial, sans-serif;
 	margin: 0 auto;
 	text-align: center;
@@ -10,11 +13,36 @@ body {
 	width: 80%; /*important to make it cross platform*/
 }
 
+.div1 {
+
+	text-align: left;
+}
+
+.div2 {
+
+	text-align: left;
+
+}
+
+.p1 {
+
+	text-align: left;
+	font-weight: bold;
+}
+
+.p2 {
+
+	text-align: left;
+	font-weight: bold;
+}
+
 img {
+
 	width: 35%
 }
 
 h2 {
+
 	border: 1px solid black;
 	margin: 50px;
 	padding:30px;

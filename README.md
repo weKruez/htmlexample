@@ -12,7 +12,7 @@
 
 	<h1 class = "h1title">FitLIFE</h1>
 
-	<img src="https://www.pexels.com/photo/man-holding-black-dumbbell-1229356/"	alt="Photo of man working out."> <!--never style image in not css-->
+	<img src="https://www.pexels.com/photo/man-holding-black-dumbbell-1229356/" alt="Photo of man working out."> <!--never style image in not css-->
 
 	<h2>About us</h2>
 		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
